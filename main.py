@@ -5,7 +5,7 @@ from multiply import multiply
 from divide import divide
 
 # Streamlit title
-st.title("Simple Calculator")
+st.title("Ali Raza")
 
 # Function to perform calculation
 def perform_calculation(x, y, operator):
